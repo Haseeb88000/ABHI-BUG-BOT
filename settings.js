@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
-global.ytname = "YT: Comedy Melody CH"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Kerala, Idukki"
+global.ownernomer = "923220507680"
+global.ownername = "DarkHc92"
+global.ytname = "YT: Dark Hc92"
+global.socialm = "GitHub: DarkHc92"
+global.location = "Pakistan, Multan, City"
 
 global.ownernumber = '919074692450'  //creator number
 global.ownername = 'Abhishek Suresh' //owner name
